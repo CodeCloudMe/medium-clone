@@ -59,6 +59,7 @@ if (isset($_GET['success']) && empty($_GET['success'])) {
             'first_name'    => $_POST['first_name'],
             'last_name'     => $_POST['last_name'],
             'email'         => $_POST['email'],
+            'active' => 1,
             'email_code'    => md5($_POST['username'] + microtime())
         );
 

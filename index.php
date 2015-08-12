@@ -26,8 +26,8 @@
 		  <p class="cover-description">
 		   A better place to read and write things that matter.<br /><br />
 		  <div class="cover-actions">
-			<a href="/<?=$uname?>"><img title="<?=$fname?> <?=$lname?>" class="avatar" src="<?=$pimg?>"/>
-				<h2 class="cover-name"><?=$fname?> <?=$lname?></h2></a>
+			<!--<a href="/<?=$uname?>"><img title="<?=$fname?> <?=$lname?>" class="avatar" src="<?=$pimg?>"/>
+				<h2 class="cover-name"><?=$fname?> <?=$lname?></h2></a>-->
 		  </div>
 		  <div class="cover-actions">
 		   <a class="btn btn-primary" href="new-post.php">New Post</a>
