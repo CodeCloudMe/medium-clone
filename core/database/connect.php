@@ -1,6 +1,6 @@
 <?php
 $config['db'] = array(
-	'host' 			=> '127.0.0.1',
+	'host' 			=> '127.10.211.2',
 	'username'		=> 'adminTcfMCpS',
 	'password'		=> 'aS1pZbTxbxf4',
 	'dbname'		=> 'medium'
