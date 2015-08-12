@@ -1,8 +1,8 @@
 <?php
 $config['db'] = array(
 	'host' 			=> 'localhost',
-	'username'		=> 'root',
-	'password'		=> '',
+	'username'		=> 'adminTcfMCpS',
+	'password'		=> 'aS1pZbTxbxf4',
 	'dbname'		=> 'medium'
 );
 
