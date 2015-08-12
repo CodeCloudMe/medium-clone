@@ -1,6 +1,6 @@
 <?php include "core/init.php"; ?>
 		<META http-equiv="Content-Type" content="text/html; charset=utf-8">	
-<title>Broomble</title>
+<title>Bedium</title>
 <link href="css/main.css" rel="stylesheet" type="text/css" media="screen">
 	<script src="js/jquery.min.js"></script>
 	<link rel="icon" href="/favicon.ico">
