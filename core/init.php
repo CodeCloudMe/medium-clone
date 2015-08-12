@@ -2,10 +2,10 @@
 session_start();
 // error_reporting(0);
 $config['db'] = array(
-	'host' 			=> 'localhost',
-	'username'		=> 'root',
-	'password'		=> '',
-	'dbname'		=> 'medium'
+    'host'          => 'localhost',
+    'username'      => 'adminTcfMCpS',
+    'password'      => 'aS1pZbTxbxf4',
+    'dbname'        => 'medium'
 );
 
 try {
